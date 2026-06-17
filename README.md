@@ -1,4 +1,4 @@
-# 🧮 Calculator Web Application
+# 🧮 Calculator Web Application | CodSoft Web Development Internship
 
 This repository contains a responsive calculator web application developed as part of the **CodSoft Web Development Internship**. The project demonstrates the implementation of a clean user interface and interactive calculator functionality using HTML, CSS, and JavaScript.
 
@@ -113,6 +113,7 @@ Potential enhancements include:
 - Dark/Light mode
 - Improved responsive design
 - Advanced mathematical functions
+-  Responsive mobile optimization
 
 ---
 
@@ -120,9 +121,11 @@ Potential enhancements include:
 
 ## Sai Sujit Khaire
 
-**BCA Graduate | MIT World Peace University**
+BCA Graduate | MIT World Peace University
 
-**MCA Student | MIT World Peace University**
+MCA Student | MIT World Peace University
+
+Aspiring Business Analyst | Data Analyst | AI Enthusiast
 
 📧 Email
 
